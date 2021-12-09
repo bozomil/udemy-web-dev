@@ -1,1 +1,3 @@
 Ovo je moj prvi commit!
+
+Ovdje idemo sa commit #2.
